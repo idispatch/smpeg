@@ -17,3 +17,6 @@ libtool
 plaympeg
 smpeg-config
 smpeg.spec
+Device-Debug
+Device-Release
+

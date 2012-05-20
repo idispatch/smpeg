@@ -58,7 +58,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="video|gtv.c|glmovie-tile.c|glmovie.c|plaympeg.c|PBProjects" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="gtv.c|glmovie-tile.c|glmovie.c|plaympeg.c|PBProjects" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -120,7 +120,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="video|gtv.c|glmovie-tile.c|glmovie.c|plaympeg.c|PBProjects" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="gtv.c|glmovie-tile.c|glmovie.c|plaympeg.c|PBProjects" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
